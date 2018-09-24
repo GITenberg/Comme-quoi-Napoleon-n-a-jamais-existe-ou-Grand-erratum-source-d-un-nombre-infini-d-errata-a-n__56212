@@ -1,0 +1,32 @@
+_repo: Comme-quoi-Napoleon-n-a-jamais-existe-ou-Grand-erratum-source-d-un-nombre-infini-d-errata-a-n__56212
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Gustave, Davois
+    gutenberg_agent_id: '48731'
+    url: http://www.gutenberg.org/2009/agents/48731
+creator:
+  author:
+    agent_name: Jean-Baptiste, Pérès
+    gutenberg_agent_id: '48730'
+    url: http://www.gutenberg.org/2009/agents/48730
+description: ''
+gutenberg_bookshelf:
+- FR Humour
+- FR Philosophie, Religion et Morale
+gutenberg_issued: '2017-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56212'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Comme quoi Napoléon n''a jamais existé
+
+  ou Grand erratum source d''un nombre infini d''errata à noter
+
+  dans l''histoire du XIXe siècle'
+url: http://www.gutenberg.org/ebooks/56212
